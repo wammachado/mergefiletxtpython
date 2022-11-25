@@ -1,4 +1,4 @@
-# Mesclar arquivos python
+# Mesclar arquivos usando python
 Script para unificar arquivos txt ou csv grande
 
 Usei esse script para unificar varios arquivos txt.
