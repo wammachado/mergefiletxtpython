@@ -1,7 +1,7 @@
 import shutil
 from pathlib import Path
 
-um = Path(r''C:\caminho\do\arquivo1.txt')
+um = Path(r'C:\caminho\do\arquivo1.txt')
 dois = Path(r'C:\caminho\do\arquivo2.txt')
 #pode adicionar mais aquivos para incluir no array
 
